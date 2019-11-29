@@ -1,0 +1,6 @@
+framework module Pods_BasicWTests {
+  umbrella header "Pods-BasicWTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

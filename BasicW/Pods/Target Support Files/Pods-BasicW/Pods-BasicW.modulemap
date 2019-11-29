@@ -1,0 +1,6 @@
+framework module Pods_BasicW {
+  umbrella header "Pods-BasicW-umbrella.h"
+
+  export *
+  module * { export * }
+}
